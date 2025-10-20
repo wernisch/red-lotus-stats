@@ -1,39 +1,66 @@
 {
   "games": [
     {
-      "id": 8449579949,
-      "rootPlaceId": 71227808846786,
-      "name": "Public Office Simulator",
-      "playing": 84,
-      "visits": 4091512,
-      "likeRatio": 64,
+      "id": 7984347522,
+      "rootPlaceId": 134043695430459,
+      "name": "🔪Survival Kpop Demon Hunters The Killer",
+      "playing": 65,
+      "visits": 0,
+      "likeRatio": 93,
       "icon": ""
     },
     {
       "id": 2726539206,
       "rootPlaceId": 7069827593,
       "name": "The Wall Experience 🎃",
-      "playing": 21,
-      "visits": 18359585,
+      "playing": 13,
+      "visits": 0,
       "likeRatio": 54,
+      "icon": "https://t4.rbxcdn.com/180DAY-5302083877b26f4a3bddf10dc345273d"
+    },
+    {
+      "id": 5383395997,
+      "rootPlaceId": 15592376692,
+      "name": "Autobuses Mexicanos",
+      "playing": 7,
+      "visits": 0,
+      "likeRatio": 73,
       "icon": ""
     },
     {
       "id": 2044600948,
       "rootPlaceId": 5764386772,
       "name": "Survival the little mermaid Ariel🧜‍♀️",
-      "playing": 2,
-      "visits": 96864953,
+      "playing": 4,
+      "visits": 0,
       "likeRatio": 65,
-      "icon": "https://t4.rbxcdn.com/180DAY-5302083877b26f4a3bddf10dc345273d"
+      "icon": ""
+    },
+    {
+      "id": 7875250260,
+      "rootPlaceId": 78721293586864,
+      "name": "Final Destination: HQ Collapse",
+      "playing": 0,
+      "visits": 0,
+      "likeRatio": 73,
+      "icon": ""
     },
     {
       "id": 7815573673,
       "rootPlaceId": 107402037282669,
       "name": "FD6 Skyview: Natural Disaster Survival",
       "playing": 0,
-      "visits": 21405429,
+      "visits": 0,
       "likeRatio": 78,
+      "icon": ""
+    },
+    {
+      "id": 8015035553,
+      "rootPlaceId": 78605784227963,
+      "name": "The Fifth Game (Squid Game 3)",
+      "playing": 0,
+      "visits": 0,
+      "likeRatio": 58,
       "icon": ""
     }
   ]
