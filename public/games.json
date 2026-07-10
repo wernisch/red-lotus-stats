@@ -4,44 +4,44 @@
       "id": 7875250260,
       "rootPlaceId": 78721293586864,
       "name": "Final Destination: HQ Collapse",
-      "playing": 197,
-      "visits": 16836880,
+      "playing": 216,
+      "visits": 16840046,
       "likeRatio": 71,
       "icon": "https://tr.rbxcdn.com/180DAY-a21695819e1c42cbd619307ea2ce9cd1/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8449579949,
-      "rootPlaceId": 71227808846786,
-      "name": "[BASEMENT🪩] Larp In An Office ",
-      "playing": 157,
-      "visits": 11309073,
-      "likeRatio": 67,
-      "icon": "https://tr.rbxcdn.com/180DAY-bdbd825bc53197831968ec16b514b118/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 2726539206,
-      "rootPlaceId": 7069827593,
-      "name": "The Wall Experience 🧱",
-      "playing": 133,
-      "visits": 22209940,
-      "likeRatio": 57,
-      "icon": "https://tr.rbxcdn.com/180DAY-e54ad2e76609b1c55dbe3d958596691e/768/432/Image/Png/noFilter"
     },
     {
       "id": 8633637129,
       "rootPlaceId": 115283052130481,
       "name": "🔥Phonk Troll Tower🎵",
-      "playing": 132,
-      "visits": 8591756,
+      "playing": 146,
+      "visits": 8593474,
       "likeRatio": 76,
       "icon": "https://tr.rbxcdn.com/180DAY-0c4a9c4aabd6e7ea9aa88f3cdbe913ca/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 2726539206,
+      "rootPlaceId": 7069827593,
+      "name": "The Wall Experience 🧱",
+      "playing": 135,
+      "visits": 22212007,
+      "likeRatio": 57,
+      "icon": "https://tr.rbxcdn.com/180DAY-e54ad2e76609b1c55dbe3d958596691e/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 8449579949,
+      "rootPlaceId": 71227808846786,
+      "name": "[BASEMENT🪩] Larp In An Office ",
+      "playing": 127,
+      "visits": 11311464,
+      "likeRatio": 67,
+      "icon": "https://tr.rbxcdn.com/180DAY-bdbd825bc53197831968ec16b514b118/768/432/Image/Png/noFilter"
     },
     {
       "id": 7984347522,
       "rootPlaceId": 134043695430459,
       "name": "🔪Survival Kpop Demon Hunters The Killer",
-      "playing": 85,
-      "visits": 24390234,
+      "playing": 95,
+      "visits": 24391402,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-dc9d6f220f5bb4bfbb984c2d67ee87a0/768/432/Image/Png/noFilter"
     },
@@ -49,19 +49,10 @@
       "id": 8015035553,
       "rootPlaceId": 78605784227963,
       "name": "[BALANCING!] The Fifth Game",
-      "playing": 10,
-      "visits": 7922528,
+      "playing": 16,
+      "visits": 7922838,
       "likeRatio": 59,
       "icon": "https://tr.rbxcdn.com/180DAY-2f3f3ac3216bb1efff8fa7f4e2bbc908/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7815573673,
-      "rootPlaceId": 107402037282669,
-      "name": "FD6 Skyview: Natural Disaster Survival",
-      "playing": 1,
-      "visits": 21673342,
-      "likeRatio": 79,
-      "icon": "https://tr.rbxcdn.com/180DAY-4f881727791f95eb7522d259ba1afaed/768/432/Image/Png/noFilter"
     },
     {
       "id": 2044600948,
@@ -71,6 +62,15 @@
       "visits": 97539672,
       "likeRatio": 65,
       "icon": "https://tr.rbxcdn.com/180DAY-f41f158fb000697ae1b739b401d9bb58/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7815573673,
+      "rootPlaceId": 107402037282669,
+      "name": "FD6 Skyview: Natural Disaster Survival",
+      "playing": 0,
+      "visits": 21673355,
+      "likeRatio": 79,
+      "icon": "https://tr.rbxcdn.com/180DAY-4f881727791f95eb7522d259ba1afaed/768/432/Image/Png/noFilter"
     }
   ]
 }
